@@ -1,4 +1,4 @@
-To run this project locally 
+### To run this project locally 
 
 1. Download the zip folder and unzip it on your computer
 2. Open 'game-of-life-main' folder on vscode
