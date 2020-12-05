@@ -2,9 +2,9 @@
 
 1. Download the zip folder and unzip it on your computer
 2. Open 'game-of-life-main' folder on vscode
-3. Type the command on terminal -  cd game-of-life-main
-4. Type the command on terminal -  npm install
-5. Type the command on terminal -  npm start
+3. Type the command on terminal:  cd game-of-life-main
+4. Type the command on terminal:  npm install
+5. Type the command on terminal:  npm start
 
 ### `npm start`
 
