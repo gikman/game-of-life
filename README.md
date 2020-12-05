@@ -1,3 +1,6 @@
+https://game-of-life-d9e2c.firebaseapp.com/
+
+
 ### To run this project locally 
 
 1. Download the zip folder and unzip it on your computer
